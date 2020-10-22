@@ -4,8 +4,7 @@
 	<meta name="viewport" content ="width-device-width, initial-scale=1.0">
 	<meta http-eqiv="X-UA-compatible" content="ie-edge">
 	<title> SVG </title>
-	<link rel="stylesheet" href="styel.css"
-  <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
     <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
     <g class="layer">
      <title>Layer 1</title>
@@ -78,5 +77,3 @@
      <polygon fill="#ff5656" id="svg_42" points="335.2208251953125,429.5 327.4128112792969,438.5555725097656 314.7791748046875,435.0966491699219 314.7791748046875,423.9033508300781 327.4128112792969,420.4444274902344 335.2208251953125,429.5 " stroke="#56aaff" stroke-width="5"/>
     </g>
    </svg>
-</html>
-
